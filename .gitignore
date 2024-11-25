@@ -1,0 +1,28 @@
+# Archivos y carpetas típicos para ignorar
+
+# Archivos de configuración
+*.env
+*.config
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación y dependencias
+/node_modules/
+dist/
+build/
+
+# Archivos de logs
+*.log
+
+# Archivos de IDEs/editores
+.vscode/
+.idea/
+*.swp
+
+# Archivos temporales
+*.tmp
+*.bak
+~*.tmp
+
