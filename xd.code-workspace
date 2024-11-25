@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../xampp/htdocs/DES"
+		},
+		{
+			"path": "../../../../xampp/htdocs/Clientes"
+		},
+		{
+			"path": "../Diseño/DiseñoVs"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
